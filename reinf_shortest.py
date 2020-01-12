@@ -4,9 +4,9 @@
 #                                                                       #
 #   Author  -   Praveen Fernando                                        #
 #               Graduate Research Assistant                             #
-#               Department of Electrical and Computer Engineering       #
-#               University of Akron                                     #
-#               330-319-0215 / psf8@zips.uakron.edu                     #
+#               Department of Computer and Information Technology       #
+#               Purdue University                                       #
+#               330-319-0215 / ferna159@purdue.edu                      #
 #                                                                       #
 #########################################################################
 
